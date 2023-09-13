@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Animal_Edible/Animal_Edible.iml" filepath="$PROJECT_DIR$/Animal_Edible/Animal_Edible.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MD2_AbtractClass_Interface.iml" filepath="$PROJECT_DIR$/.idea/MD2_AbtractClass_Interface.iml" />
+    </modules>
+  </component>
+</project>
